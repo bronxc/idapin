@@ -5,7 +5,7 @@ Build with Pin-3.16.98275
 
 # HD Build
 
-Download idapin7x từ: hxxps://www.hex-rays.com/products/ida/support/freefiles/idapin7x.zip
+Download idapin7x từ: hxxps:// www.hex-rays.com / products / ida / support / freefiles / idapin7x.zip
 
 x = 0, 1, 2, 4, 5...
 
@@ -25,7 +25,7 @@ Copy 2 file dll này vào thư mục gốc của Pin, nằm cùng với pin.exe
 
 Vui lòng đọc kỹ, hết, đọc đi đọc lại, đọc tới đọc lui, đọc xui đọc ngược tại:
 
-hxxps://www.hex-rays.com/wp-content/uploads/2019/12/pin_tutorial.pdf
+hxxps:// www.hex-rays.com / wp-content / uploads / 2019 / 12 / pin_tutorial.pdf
 
 Trong Pin tracer debugger option, chỉ cả 2 path vào thư mục Pin.
 

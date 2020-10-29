@@ -7,7 +7,7 @@ Build with Pin-3.16.98275
 
 Download idapin7x từ: hxxps:// www . hex-rays . com / products / ida / support / freefiles / idapin7x . zip
 
-x = 0, 1, 2, 4, 5...
+x = 0, 1, 2, 3, 4, 5...
 
 Backup 2 file .sln và .vcxproj của họ, thay bằng 2 file của mình.
 
